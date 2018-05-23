@@ -1,6 +1,4 @@
----
-title: What is PowJS?
----
+# What is PowJS?
 
 PowJS is Real-DOM ECMAScript 6 Template Engine.
 
@@ -13,3 +11,5 @@ Click here to show you.
 {% include_relative LICENSE %}
 
 {% include_relative assets.html %}
+
+<!-- {{ page.title }} -->
