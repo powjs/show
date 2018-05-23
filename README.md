@@ -11,5 +11,3 @@ Click here to show you.
 {% include_relative LICENSE %}
 
 {% include_relative assets.html %}
-
-<!-- {{ page.title }} -->
