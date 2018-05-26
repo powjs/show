@@ -1,5 +1,6 @@
 ---
 name: PowJS show
 url: https://powjs.com/show
+lang: zh-CN
 repository: https://github.com/powjs/show
 timezone: Asia/Shanghai
